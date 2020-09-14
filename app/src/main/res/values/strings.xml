@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">HTTP 통신 테스트 앱</string>
+
+    <!-- Error: Authentication error -->
+    <string name="msg_fail">Url 주소를 확인하여 주세요.</string>
+
+    <!-- Error: Authentication error -->
+    <string name="msg_autherror">인증 오류</string>
+
+    <!-- Error: Join error -->
+    <string name="msg_joinerror">가입 중 오류가 발생했습니다</string>
+
+    <!-- Error: Login error -->
+    <string name="msg_loginerror">로그인 오류</string>
+
+    <!-- Error: Invalid parameters or nonce/hash values -->
+    <string name="msg_requesterror">클라이언트 요청 오류</string>
+
+    <!-- Service in maintenance -->
+    <string name="msg_maintenance">서비스 임시 점검</string>
+
+    <!-- Error: Unknown error -->
+    <string name="msg_error">오류가 발생했습니다</string>
+
+    <!-- Error: Unknown error -->
+    <string name="msg_data">데이터 포맷을 확인해주세요.</string>
+</resources>
