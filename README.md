@@ -3,7 +3,7 @@
 ### Language : Java
 ### IDE : Android Studio
 
-### Simple Http Json Connection Object Init
+#### Simple Http Json Connection Object Init
 
 ```Java
  //Object
@@ -15,7 +15,7 @@
     private String strJsonUrlTest          =  "https://JsonSampleUrl.co.kr";
 ```
 
-###  Simple Http Json Connection Object Function Call
+####  Simple Http Json Connection Object Function Call
 ```Java
  @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,7 +35,7 @@
 ```
 
 
-###  Http Json Response Handler class
+####  Http Json Response Handler class
 ```Java
  /** Image Response Data class **/
     private class ImageResponseHandler implements MsgImageHandler.ImageHandler {
