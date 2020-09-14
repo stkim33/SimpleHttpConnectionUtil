@@ -3,11 +3,6 @@
 ### Language : Java
 ### IDE : Android Studio
 
-**Table*
-  * 소스코드 블록은 다음과 같이 작성할 수 있습니다.
-
-
-
 ### Simple Http Json Connection Object Init
 
 ```Java
