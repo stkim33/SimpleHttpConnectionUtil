@@ -18,6 +18,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Object
     private NetworkErrorHandler                     errorHandler  = new NetworkErrorHandler();          //Http Error Handler
     private MsgNetworkHandler.JsonResponseHandler   jsonHandler   = new JsonResponseHandler();          //Json Handler
     private ImageResponseHandler                    ImageHandler  = new ImageResponseHandler();;        //Image Handler
