@@ -1,7 +1,7 @@
 ## SimpleHttpConnectionUtil 
 
-### Language : Java
-### IDE : Android Studio
+### Language : Java   ,   IDE : Android Studio
+### targetSdkVersion : 29  , minSdkVersion : 19
 
 #### Simple Http Json Connection Object Init
 
