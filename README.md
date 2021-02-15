@@ -37,7 +37,7 @@
 
 ####  Http Json Response Handler class
 ```Java
- /** Image Response Data class **/
+    /** Image Response Data class **/
     private class ImageResponseHandler implements MsgImageHandler.ImageHandler {
         @Override
         public void ImageSuccessResponse(MsgImageHandler.MyBitmap bitmap) {
